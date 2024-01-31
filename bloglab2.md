@@ -25,6 +25,7 @@ Private Key Path
 ![Image](lab2part2.png)
 
 Public Key Path
+
 ![Image](labpart2(2).png)
 
 Terminal Work
