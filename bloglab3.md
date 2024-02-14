@@ -1,4 +1,4 @@
-# Lab Report 2
+# Lab Report 3
 By Kinish Sathish
 
 ## Part 1
