@@ -1,3 +1,5 @@
+By Kinish Sathish
+
 # Part 1
 
 Student Kinish Sathish: Hello, When running the code that we were supposed tgo debug for the Lab this wednedsay, I came across the terminal output of me running the bash file, and came to 
